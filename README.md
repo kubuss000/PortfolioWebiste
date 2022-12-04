@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">It's Simle Portfolio Website U Can Use That With No Credits!</p>
+<p align="center">It's Simple Portfolio Website U Can Use That, No Problem:)</p>
 
 ###
 
